@@ -1,1 +1,3 @@
-# lazarus-indovina
+# lazarus-progetto-indovina
+oggi ho imparato a fare un progetto su lazarus dove devi indovinare un numero scelto dalla macchina che è da 1 a 100.
+il codice usa un randomizer per scegliere il numero, poi legge il numero messo dall'utente e usa la funzione if per determinare se il numero è uguale al numero scelto, se si allora scrive "il numero è corretto, tentativi:a", in caso negativo si applica la funzione else dove controlla se il numero dell'utente è < di quello scelto, se lo è da un output con su scritto "il numero è troppo basso", se no usa di nuovo else per dare un output dicendo "il numero è troppo alto". per capire quanti tentativi hai fatto rileva quante volte è stato cliccato il pulsante prova
